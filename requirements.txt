@@ -1,0 +1,5 @@
+textual>=0.80.0
+rich>=13.7.0
+openai>=1.40.0
+mcp>=1.2.0,<2.0.0
+python-dotenv>=1.0.0

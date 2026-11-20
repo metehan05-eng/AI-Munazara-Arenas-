@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "ajan": "B",
+    "rol": "Avukat / Ev Sahibi Temsilcisi & Ekonomist",
+    "surum": "1.0",
+    "son_guncelleme": "2026-11-19",
+    "uyari": "Başlangıç taslağıdır. Hukuki metinler özetlenmiştir; ekonomik göstergeler TÜİK ve TCMB'den güncel değerlerle değiştirilmelidir. Hipotetik örnekler gerçek veri değildir.",
+    "dogrulama_etiketleri": {
+      "DOĞRULANDI": "Resmi kaynakla teyit edilmiştir",
+      "TASLAK": "Özet niteliğinde; resmi metinle karşılaştırılmalıdır",
+      "DOĞRULANMADI": "Yer tutucu; kullanmadan önce doldurulmalıdır",
+      "GEREKÇE": "Hukuki kaynak değil, savunma çerçevesidir",
+      "HESAPLAMA": "Matematiksel çerçeve; girdilerin ayrıca doğrulanması gerekir"
+    }
+  },
+  "kayitlar": [
+    {
+      "id": "ANAY-35",
+      "kategori": "anayasa",
+      "madde_no": "Anayasa m. 35",
+      "baslik": "Mülkiyet hakkının güvencesi",
+      "anahtar_kelimeler": ["mülkiyet", "mülkiyet hakkı", "anayasa", "kamu yararı", "sınırlama", "miras"],
+      "icerik": "Anayasa herkesin mülkiyet hakkına sahip olduğunu güvence altına alır. Bu hak ancak kamu yararı amacıyla ve kanunla sınırlanabilir.",
+      "savunma_notu": "Kira artışı sınırlarının hangi kamu yararına dayandığını ve kanuni dayanağının açık olup olmadığını sorgulayın. Mülkiyet hakkının özüne dokunan bir düzenlemenin meşruiyeti için ölçülülük testinin uygulanması gerektiğini vurgulayın.",
+      "kaynak": "1982 Anayasası",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "ANAY-13",
+      "kategori": "anayasa",
+      "madde_no": "Anayasa m. 13",
+      "baslik": "Temel hakların sınırlandırılması ve ölçülülük",
+      "anahtar_kelimeler": ["ölçülülük", "sınırlama", "özü", "orantılılık", "anayasa", "temel hak"],
+      "icerik": "Temel hak ve özgürlükler ancak kanunla, Anayasa'nın özüne dokunmadan ve ölçülülük ilkesine uygun biçimde sınırlanabilir.",
+      "savunma_notu": "Kira tavanının amacı (konut güvencesi) ile aracı (artış sınırı) arasındaki orantıyı tartışın. Tavanın süresi ve kapsamı mülk sahibinin getirisini tümüyle ortadan kaldırıyorsa orantısızlık iddiasını öne çıkarın.",
+      "kaynak": "1982 Anayasası",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "ANAY-2-B",
+      "kategori": "anayasa",
+      "madde_no": "Anayasa m. 2",
+      "baslik": "Hukuk devleti, hukuki güvenlik ve istikrar",
+      "anahtar_kelimeler": ["hukuki güvenlik", "istikrar", "geriye dönük", "hukuk devleti", "öngörülebilirlik"],
+      "icerik": "Anayasa Türkiye'yi hukuk devleti olarak tanımlar. Bu ilke hukuki güvenlik ve istikrar beklentisinin korunmasını gerektirir; sözleşmelere ve yatırım kararlarına geriye dönük etki verilmesi bu ilke ile tartışmalıdır.",
+      "savunma_notu": "Kira düzenlemelerinin mevcut sözleşmelere geriye dönük uygulanması durumunda hukuki güven ilkesini vurgulayın. Düzenleme yapılacaksa geçiş dönemi ve öngörülebilirlik ilkesine dikkat çekin.",
+      "kaynak": "1982 Anayasası",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TMK-683",
+      "kategori": "mevzuat",
+      "madde_no": "TMK 683",
+      "baslik": "Mülkiyetin içeriği: kullanma, yararlanma ve tasarruf",
+      "anahtar_kelimeler": ["mülkiyet", "kullanma", "yararlanma", "tasarruf", "malik", "mülk sahibi", "kiraya verme"],
+      "icerik": "Malik, mülkiyet konusu üzerinde kanunun sınırları içinde dilediği gibi kullanma, yararlanma ve tasarruf etme yetkisine sahiptir.",
+      "savunma_notu": "Ev sahibinin mülkünü kiraya verme ve bu gelirden yararlanma yetkisini bu hükme dayandırın. Yetkinin kanun sınırları içinde olduğunu da kabul ederek tartışmanın dürüstlüğünü koruyun.",
+      "kaynak": "4721 sayılı Türk Medeni Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "TBK-344-B",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 344",
+      "baslik": "Kira artış tavanı ve enflasyon gecikmesi (ev sahibi perspektifi)",
+      "anahtar_kelimeler": ["kira artışı", "TÜFE", "on iki aylık", "gecikme", "reel kayıp", "enflasyon", "ev sahibi"],
+      "icerik": "Konut kiralarında artışın TÜFE'nin on iki aylık ortalamasıyla sınırlandırılması, enflasyonun kira gelirine gecikmeli yansımasına yol açar. Hızlı enflasyon artışlarında on iki aylık ortalama gerçek fiyat artışının gerisinde kalır.",
+      "savunma_notu": "Ani enflasyon dönemlerinde yasal tavanın reel kira kaybına yol açtığını, konut sahibinin ise bakım ve vergi gibi giderlerle karşı karşıya kaldığını gösterin. Bu tartışmanın tavanın tamamen kaldırılmasını gerektirmediğini de kabul edin.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "EKO-01",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Reel getiri hesabı",
+      "anahtar_kelimeler": ["reel getiri", "nominal", "enflasyon", "fisher", "getiri", "kayıp"],
+      "icerik": "Reel getiri = (1 + nominal getiri) / (1 + enflasyon oranı) - 1. Küçük oranlarda reel kira değişimi yaklaşık olarak nominal artış eksi enflasyon oranına eşittir. Somut bir hesap için EKO-04 kaydına bakın.",
+      "savunma_notu": "Kira artışının nominal değerini değil reel değerini tartışmaya açın. Ev sahibinin gerçek gelir kaybını bu formülle gösterin; kullanılan rakamların güncel ve kaynaklı olması gerekir.",
+      "kaynak": "Standart finans formülü (Fisher ilişkisi)",
+      "dogrulama_durumu": "HESAPLAMA"
+    },
+    {
+      "id": "EKO-02",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Brüt ve net kira getirisi",
+      "anahtar_kelimeler": ["brüt getiri", "net getiri", "kira getirisi", "gider", "boşluk", "yatırım getirisi", "aidat"],
+      "icerik": "Brüt kira getirisi = yıllık brüt kira / gayrimenkul değeri. Net kira getirisi = (yıllık kira - yıllık giderler) / gayrimenkul değeri. Yıllık giderler arasında aidat, sigorta, emlak vergisi, bakım-onarım ve boş kalma süresi bulunur.",
+      "savunma_notu": "Brüt getirinin yüksek görünmesine karşılık net getirinin çok daha düşük olabileceğini hatırlatın. Boş kalma riskini ve giderleri hesaba katarak yatırımın gerçek getirisini gösterin.",
+      "kaynak": "Standart gayrimenkul yatırım analizi",
+      "dogrulama_durumu": "HESAPLAMA"
+    },
+    {
+      "id": "EKO-03",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "TÜFE ve enflasyon ölçümü",
+      "anahtar_kelimeler": ["TÜFE", "enflasyon", "TÜİK", "on iki aylık", "yıllık", "sepet", "kira kalemi"],
+      "icerik": "TÜFE, belirli bir mal ve hizmet sepetinin fiyat değişimini ölçer ve TÜİK tarafından açıklanır. Konut kiraları da bu sepetin bir kalemidir. Aylık, yıllık ve on iki aylık ortalama değişimler farklı zamanlama ve yorum sağlar.",
+      "savunma_notu": "Enflasyon argümanında hangi TÜFE göstergesinin kullanıldığını açıkça belirtin. Aylık artış ani değişimi, yıllık değişim ise kümülatif etkiyi gösterir. Güncel değerleri TÜİK'ten girin.",
+      "kaynak": "TÜİK (Türkiye İstatistik Kurumu) metodolojisi",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "EKO-04",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Hipotetik senaryo: enflasyon ile kira tavanı farkı",
+      "anahtar_kelimeler": ["hipotetik", "senaryo", "örnek", "reel kayıp", "enflasyon", "kira artışı", "varsayım"],
+      "icerik": "HİPOTETİK ÖRNEK (gerçek veri değildir): Yıllık enflasyon yüzde 40, kira artış tavanı yüzde 25 varsayılırsa reel kira geliri yaklaşık yüzde 10,7 erir [(1,25 / 1,40) - 1 ≈ -0,107]. Gerçek hesap için güncel TÜFE ve kira verileri kullanılmalıdır.",
+      "savunma_notu": "Bu rakamı yalnızca varsayımsal bir senaryo olarak sunun; gerçek bir iddia gibi kullanmayın. Güncel TÜİK verisiyle hesabı yeniden yapın.",
+      "kaynak": "Hipotetik hesaplama",
+      "dogrulama_durumu": "HESAPLAMA"
+    },
+    {
+      "id": "EKO-05",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Alternatif yatırım getirisi ve politika faizi",
+      "anahtar_kelimeler": ["faiz", "politika faizi", "mevduat", "tahvil", "alternatif", "fırsat maliyeti", "TCMB", "getiri karşılaştırması"],
+      "icerik": "Gayrimenkul yatırımı; mevduat, devlet tahvili ve diğer varlıklarla karşılaştırıldığında fırsat maliyeti taşır. Kira getirisi, risksiz faiz oranı ve enflasyon beklentisiyle birlikte değerlendirilmelidir. TCMB politika faizi bu karşılaştırmada referans alınabilir.",
+      "savunma_notu": "Kira getirisinin risk düzeltmeli olarak düşük olabileceğini kabul ederek, gayrimenkulün enflasyona karşı koruma ve değer artışı gibi özelliklerini tartışın.",
+      "kaynak": "TCMB verileri (güncel oranı kontrol edin)",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "EKO-06",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Kiralık konut arzı ve kira tavanlarının etkisi (tartışmalı)",
+      "anahtar_kelimeler": ["arz", "talep", "kiralık konut", "yatırım", "tavan", "arz daralması", "literatür", "tartışmalı"],
+      "icerik": "Kiralık konut arzı; inşaat maliyetleri, faiz, vergi düzenlemeleri, kentsel talep ve göç gibi faktörlere bağlıdır. Kira tavanlarının uzun vadede yatırım ve arzı azalttığına dair görüşler mevcuttur; ancak etkinin büyüklüğü ve yönü ampirik olarak tartışmalıdır.",
+      "savunma_notu": "Arz daralması riskini bir olasılık olarak sunun, kesin bir sonuç gibi değil. Karşı tarafın konut krizi argümanına, arzın fiyat dışı faktörlerle de belirlendiğini hatırlatın.",
+      "kaynak": "Ampirik kira kontrolü literatürü (genel)",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "EKO-07",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Bakım yatırımı ve konut kalitesi",
+      "anahtar_kelimeler": ["bakım", "onarım", "yenileme", "kalite", "yatırım", "amortisman", "yıpranma"],
+      "icerik": "Kira getirisi yetersiz kaldığında bakım-onarım ve yenileme yatırımları ertelenebilir. Bu durum zamanla konut stokunun kalitesini düşürebilir. Amortisman ve yıpranma, mülkün değer kaybını hesaba katmak için dikkate alınır.",
+      "savunma_notu": "Düşük getirinin kiracının yaşam kalitesini de etkileyebileceğini, konut stokunun bakımsız kalması riskini karşı tarafa hatırlatın.",
+      "kaynak": "Genel gayrimenkul ekonomisi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "RAY-01",
+      "kategori": "rayic",
+      "madde_no": null,
+      "baslik": "Rayiç bedel tespiti: emsal karşılaştırma yöntemi",
+      "anahtar_kelimeler": ["rayiç", "emsal", "karşılaştırma", "metrekare", "birim fiyat", "ilan", "satış"],
+      "icerik": "Rayiç bedel tespitinde en yaygın yöntemlerden biri emsal karşılaştırmasıdır: benzer özelliklerdeki bağımsız bölümlerin son işlem veya ilan fiyatları metrekare birim fiyatı üzerinden karşılaştırılır. İlan fiyatları pazarlık payı nedeniyle gerçek satış fiyatının üzerinde olabilir.",
+      "savunma_notu": "Piyasa rayici iddiasını tek bir ilana değil, birden fazla doğrulanabilir emsale dayandırın. Pazarlık payını hesaba katarak tutarlı bir ortalama önerin.",
+      "kaynak": "Gayrimenkul değerleme uygulamaları (genel)",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "RAY-02",
+      "kategori": "rayic",
+      "madde_no": null,
+      "baslik": "Rayiç bedel tespiti: gelir yöntemi ve kapitalizasyon oranı",
+      "anahtar_kelimeler": ["gelir yöntemi", "kapitalizasyon", "kira değeri", "net kira", "değerleme", "kapitalizasyon oranı"],
+      "icerik": "Gelir yöntemi, gayrimenkulün beklenen net kira gelirinin kapitalizasyon oranına bölünmesiyle değerini hesaplar. Kapitalizasyon oranı; risksiz faiz, risk primi ve beklenen büyümeyle ilişkilidir.",
+      "savunma_notu": "Piyasa kira seviyesinin mülkün değeri ve kapitalizasyon oranı üzerinden tutarlılığını kontrol edin. Kullanılan varsayılan oranları açıkça belirtin.",
+      "kaynak": "Gayrimenkul değerleme uygulamaları (genel)",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "RAY-03",
+      "kategori": "rayic",
+      "madde_no": null,
+      "baslik": "Rayiç değeri etkileyen faktörler",
+      "anahtar_kelimeler": ["konum", "metrekare", "bina yaşı", "kat", "cephe", "altyapı", "ulaşım", "imar", "tapu", "rayiç faktörleri"],
+      "icerik": "Rayiç değeri etkileyen başlıca faktörler: konum (ulaşım, okul, sağlık ve çevre), metrekare ve oda sayısı, bina yaşı, kat ve cephe, altyapı ve otopark imkânları, tapu ve imar durumu.",
+      "savunma_notu": "Kiracı tarafının eski bina veya bakımsızlık iddialarına karşılık, konum ve altyapı gibi değeri artıran faktörlerin rayiç tespitinde dikkate alınması gerektiğini vurgulayın.",
+      "kaynak": "Gayrimenkul değerleme uygulamaları (genel)",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "RAY-04",
+      "kategori": "rayic",
+      "madde_no": null,
+      "baslik": "Rayiç bedel tespiti: maliyet yöntemi",
+      "anahtar_kelimeler": ["maliyet yöntemi", "arsa değeri", "yapım maliyeti", "amortisman", "yeni yapı"],
+      "icerik": "Maliyet yönteminde değer; arsa değeri ile yapım maliyetinin toplamından yıpranma (amortisman) düşülerek bulunur. Yeni yapılarda daha anlamlıdır; eski yapılarda piyasa karşılaştırmasıyla birlikte kullanılır.",
+      "savunma_notu": "Arsa ve yapım maliyetlerindeki artışın mülk sahibinin yenileme ihtiyacını ve yüksek maliyetini gösterdiğini belirtin. Rakamların kaynaklı olması gerekir.",
+      "kaynak": "Gayrimenkul değerleme uygulamaları (genel)",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "KARS-01",
+      "kategori": "karsilastirmali",
+      "madde_no": null,
+      "baslik": "Berlin 'Mietendeckel' kira tavanı ve Federal Anayasa Mahkemesi kararı",
+      "anahtar_kelimeler": ["berlin", "almanya", "kira tavanı", "mietendeckel", "anayasa mahkemesi", "karşılaştırmalı", "yetki"],
+      "icerik": "Berlin eyaleti 2020'de kira fiyatlarını dondurup üst sınırlar getiren bir düzenleme yürürlüğe koymuş; Alman Federal Anayasa Mahkemesi 2021'de bu düzenlemeyi eyaletin yetkisi bulunmadığı gerekçesiyle iptal etmiştir.",
+      "savunma_notu": "Kira tavanlarının yetki ve hukuki dayanak açısından ciddi riskler taşıyabileceğini karşılaştırmalı örnekle gösterin. Ancak bu örneğin Almanya'nın yetki yapısına özgü olduğunu ve Türkiye'ye doğrudan aktarılamayacağını kabul edin.",
+      "kaynak": "Alman Federal Anayasa Mahkemesi kararı (2021); tarih ve gerekçeyi teyit edin",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "ARG-B01",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Mülkiyet güvencesi ve yatırım güveni",
+      "anahtar_kelimeler": ["yatırım", "güven", "mülk sahibi", "emek", "birikim", "mülkiyet", "emeklilik"],
+      "icerik": "Ev sahibinin mülkü çoğu zaman bir ömür boyu birikimin veya emeklilik gelirinin ürünüdür. Kira düzenlemelerinin öngörülemez biçimde değişmesi bu tür yatırımlara duyulan güveni zayıflatabilir.",
+      "savunma_notu": "Mülkiyetin salt bir sermaye değil, bireyin güvence aracı olduğunu vurgulayın. Konut arzının yatırımcı güvenine bağlı olduğunu da kiracı açısından gösterin.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-B02",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Reel kayıp ve konut kalitesi",
+      "anahtar_kelimeler": ["reel kayıp", "bakım", "yenileme", "konut kalitesi", "erteleme", "bakımsızlık"],
+      "icerik": "Reel getirisi eriyen ev sahibi bakım ve yenileme yatırımını erteleyebilir. Bu durum konutların zamanla bakımsızlaşmasına ve kiracının da zarar görmesine yol açabilir.",
+      "savunma_notu": "Kira tavanının kısa vadede kiracıyı koruyabileceğini, ancak uzun vadede konut kalitesini düşürebileceğini dengeli biçimde sunun.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-B03",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Kiralık arz daralması riski",
+      "anahtar_kelimeler": ["arz", "daralma", "kira fiyatları", "yükseliş", "risk", "kiralık konut"],
+      "icerik": "Yatırım getirisinin düşmesi kiralık konut arzını azaltabilir. Arz daraldığında kira fiyatları sert biçimde yükselebilir ve bu risk kiracı için de bir maliyettir.",
+      "savunma_notu": "Arz etkisi ampirik olarak tartışmalı olduğundan bunu kesin sonuç olarak değil, dikkatli bir risk olarak sunun.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-B04",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Küçük ölçekli ev sahipleri gerçeği",
+      "anahtar_kelimeler": ["küçük ev sahibi", "tek konut", "emeklilik", "ek gelir", "büyük mülk sahibi", "portföy"],
+      "icerik": "Genel tartışmada ev sahibi çoğunlukla büyük mülk sahibi olarak düşünülür. Oysa birçok ev sahibi tek bir konutunu ek gelir veya emeklilik desteği için kiralamış olabilir.",
+      "savunma_notu": "Tartışmayı büyük portföy sahipleri üzerinden değil, tek konutunu kiralayan küçük ev sahipleri üzerinden kurarak insani boyutunu gösterin. Bu grubun gerçek oranına dair veri olmadan rakam kullanmayın.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "YRG-B01",
+      "kategori": "emsal_karar",
+      "madde_no": "Anayasa m. 35",
+      "baslik": "[YER TUTUCU] Kira artış sınırı ve mülkiyet hakkı dengesi",
+      "anahtar_kelimeler": ["yargıtay", "anayasa mahkemesi", "emsal", "mülkiyet", "kira artışı", "denge"],
+      "icerik": "[DOĞRULANMADI] Bu alana gerçek karar metninden özetlenmiş ilke yazılmalıdır. Esas ve karar numarası ile tarih eklenmeden kullanılmamalıdır.",
+      "savunma_notu": "Bu kayıt doldurulmadan kanıt olarak kullanılmamalıdır.",
+      "kaynak": "E.____ / K.____ (doldurulacak)",
+      "dogrulama_durumu": "DOĞRULANMADI"
+    },
+    {
+      "id": "TBK-138",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 138",
+      "baslik": "Aşırı ifa güçlüğü ve sözleşmenin uyarlanması (Clausula Rebus Sic Stantibus)",
+      "anahtar_kelimeler": ["aşırı ifa güçlüğü", "uyarlama", "enflasyon", "beklenmeyen hal", "dava", "hakim müdahalesi"],
+      "icerik": "Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum ortaya çıkar ve sözleşmenin mevcut şartlarla ifasını dürüstlük kuralına aykırı kılacak derecede borçlu/alacaklı aleyhine değiştirirse; hakimden sözleşmenin yeni koşullara uyarlanması istenebilir.",
+      "savunma_notu": "Yüksek enflasyonist dönemlerde %25 gibi yapay tavanların sözleşmenin temeli olan adalet dengesini çökerttiğini, ev sahibinin TBK 138 uyarınca 5 yılı beklemeden uyarlama davası açma hakkı olduğunu savunarak karşı tarafı köşeye sıkıştırın.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TBK-315",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 315",
+      "baslik": "Kiracının temerrüdü ve sözleşmenin feshi",
+      "anahtar_kelimeler": ["temerrüt", "kira ödememe", "ihtar", "otuz gün", "fesih", "tahliye"],
+      "icerik": "Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini veya yan gideri ödemezse; kiraya veren konut kiralarında kiracıya yazılı olarak en az otuz gün süre verip, bu süre içinde de ödemezse sözleşmeyi feshedeceğini bildirebilir.",
+      "savunma_notu": "Kiracının yalnızca hakları değil, temel edim borcu olan kirayı eksiksiz ve gününde ödeme yükümlülüğü olduğunu, gecikme halinde derhal temerrüt ve tahliye yoluna gidileceğini sert bir dille hatırlatın.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TBK-351",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 351",
+      "baslik": "Yeni malikin ihtiyacı sebebiyle tahliye hakkı",
+      "anahtar_kelimeler": ["yeni malik", "satın alma", "tahliye davası", "ihtiyaç", "altı ay", "bir ay ihtar"],
+      "icerik": "Kiralananı sonradan edinen kişi, kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ihtiyacı varsa, edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla altı ay sonra tahliye davası açabilir.",
+      "savunma_notu": "Piyasada kiracılı konutların mülk sahipleri tarafından satılarak yeni malik eliyle tahliye ettirilmesi dinamiğini gösterin. Yasal kısıtlamaların mülk sahibini evi satmaya zorladığını belirtin.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TBK-352-2",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 352/2",
+      "baslik": "İki haklı ihtar sebebiyle tahliye davası",
+      "anahtar_kelimeler": ["iki haklı ihtar", "tahliye", "kira gecikmesi", "kira dönemi", "dava hakkı"],
+      "icerik": "Kiracı, bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde; bir yıl ve daha uzun süreli kira sözleşmelerinde ise bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için kendisine yazılı olarak iki haklı ihtarda bulunulmasına sebep olmuşsa, kiraya veren kira süresinin bitiminden başlayarak bir ay içinde tahliye davası açabilir.",
+      "savunma_notu": "Kiracının 'nasılsa kanun beni koruyor' rehavetiyle kirayı aksatması halinde iki haklı ihtar ile derhal kapı önüne konulabileceğini hukuki bir tokat gibi yüzüne vurun.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "EKO-08",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "İnşaat Maliyet Endeksi (İME) artışı ve amortisman felaketi",
+      "anahtar_kelimeler": ["inşaat maliyeti", "TÜİK", "İME", "malzeme", "işçilik", "yenileme maliyeti", "amortisman"],
+      "icerik": "TÜİK verilerine göre İnşaat Maliyet Endeksi yıllık %60-70 bandında artış göstermektedir. Bir konutun tesisatı, boyası, çatısı veya kombisi bozulduğunda tamir maliyeti bir yıllık kira gelirini aşmaktadır. Reel getirisi eriyen mülk sahibinden bu bakım masraflarını beklemesi iktisadi bir hezeyandır.",
+      "savunma_notu": "Kiracı temsilcisinin 'ev sahibi baksın, onarsın' talebine karşı; 'Kira gelirini %25'e hapsedip onarım maliyetini %70 enflasyona bırakan bir sistemde evi nasıl onaracaksınız?' diyerek mantıksal çıkmaza sokun.",
+      "kaynak": "TÜİK İnşaat Maliyet Endeksi Bültenleri",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "EKO-09",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Fiyat tavanının karaborsa, elden nakit ve kayıt dışılık yaratması",
+      "anahtar_kelimeler": ["fiyat tavanı", "karaborsa", "gölge ekonomi", "kayıt dışı", "elden nakit", "vergi kaybı", "hava parası"],
+      "icerik": "Ekonomi teorisinin en temel kuralıdır: Piyasa fiyatının altına yapay tavan konursa piyasa el altından karaborsaya döner. Ev sahipleri vergi kaybı pahasına elden nakit talep etmekte, depozito adı altında fahiş bedeller istemekte veya hava parası doğmaktadır. Popülist tavanlar dürüst kiracıyı ve devleti cezalandırır.",
+      "savunma_notu": "Ajan A'nın koruma övgülerine karşı, tavanların dürüstlüğü cezalandırdığını ve karaborsa yarattığını gösterin.",
+      "kaynak": "İktisat Teorisi (Kira Kontrolleri ve Kayıt Dışılık)",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "EKO-10",
+      "kategori": "ekonomi",
+      "madde_no": null,
+      "baslik": "Sermaye kaçışı ve kiralık arzın çöküşü",
+      "anahtar_kelimeler": ["sermaye kaçışı", "yatırım düşüşü", "konut krizi", "yeni kiracılar", "yurt dışı gayrimenkul"],
+      "icerik": "Getirisi kısıtlanan yerli yatırımcılar konut yapmaktan veya satın almaktan vazgeçerek paralarını faize, altına veya yurt dışı gayrimenkule (Dubai, Karadağ, Yunanistan vb.) kaçırmaktadır. Sonuç: Yeni evlenene, üniversite kazanan gence veya şehre yeni taşınana kiralık tek bir daire dahi kalmamaktadır.",
+      "savunma_notu": "Kira tavanının mevcut kiracıyı korurken yeni nesil gençleri ve üniversite öğrencilerini sokakta bıraktığını, kiralık konut krizinin asıl müsebbibi olduğunu haykırın.",
+      "kaynak": "Merkez Bankası ve Konut Piyasası Raporları",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-B05",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Mülk sahibi devletin sosyal yardım sandığı değildir",
+      "anahtar_kelimeler": ["sosyal yardım", "kamu yükü", "bireysel fedakarlık", "mülkiyet gaspı", "devlet görevi"],
+      "icerik": "Sosyal devlet ilkesi gereği yoksul veya dar gelirli yurttaşı sübvanse etmek devletin hazinesinin görevidir; bu yükü bir avuç konut sahibinin sırtına yükleyemezsiniz. Ev sahibinin emeklilik birikimini zorla kamulaştırarak sosyal politika yürütülemez.",
+      "savunma_notu": "'Sosyal devlet' lafını ağzından düşürmeyen Ajan A'ya, 'Sosyal yardımı devlet kendi bütçesinden kira desteği vererek yapar; vatandaşın tapulu mülkünü bedavaya kullandırarak değil!' diyerek sertçe vurun.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-B06",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Sulh hukuk mahkemelerinin kilitlenmesi ve toplumsal infial",
+      "anahtar_kelimeler": ["sulh hukuk", "dava patlaması", "toplumsal barış", "cinayet", "kavga", "adliye tıkanması"],
+      "icerik": "Gerçeklikten kopuk tavan fiyatlar yüz binlerce tahliye ve kira tespit davasına yol açmış; sulh hukuk mahkemelerinde duruşma günleri 2 yıl sonrasına verilmeye başlanmıştır. Hukuk yolu tıkanınca taraflar arasında fiziksel çatışmalar ve toplumsal huzursuzluk patlak vermiştir.",
+      "savunma_notu": "Mevcut düzenlemenin toplumsal barışı nasıl dinamitlediğini ve adalet sistemini çökerttiğini karşı tarafın yüzüne çarpın.",
+      "kaynak": "Adalet Bakanlığı ve Yargı İstatistikleri",
+      "dogrulama_durumu": "GEREKÇE"
+    }
+  ]
+}

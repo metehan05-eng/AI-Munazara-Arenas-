@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "ajan": "A",
+    "rol": "Avukat / Kiracı Temsilcisi",
+    "surum": "1.0",
+    "son_guncelleme": "2026-11-19",
+    "uyari": "Başlangıç taslağıdır. Madde içerikleri özetlenmiş ve paraphrase edilmiştir; bağlayıcı kullanımdan önce mevzuat.gov.tr ve Resmi Gazete üzerinden teyit edin. Yargıtay kararlarını resmi kaynaktan gerçek esas ve karar numaralarıyla ekleyin.",
+    "dogrulama_etiketleri": {
+      "DOĞRULANDI": "Resmi kaynakla teyit edilmiştir",
+      "TASLAK": "Özet niteliğinde; resmi metinle karşılaştırılmalıdır",
+      "DOĞRULANMADI": "Yer tutucu; kullanmadan önce doldurulmalıdır",
+      "GEREKÇE": "Hukuki kaynak değil, savunma çerçevesidir"
+    }
+  },
+  "kayitlar": [
+    {
+      "id": "TBK-299",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 299",
+      "baslik": "Kira sözleşmesinin tanımı",
+      "anahtar_kelimeler": ["kira sözleşmesi", "tanım", "kiraya veren", "kiracı", "kullanım", "bedel"],
+      "icerik": "Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını ve bundan yararlanılmasını kiracıya bırakmayı; kiracının ise buna karşılık bir bedel ödemeyi üstlendiği sözleşmedir.",
+      "savunma_notu": "Sözleşmenin temel niteliği bir kullanım hakkının devridir. Konut kiralarında kiracı korumaya yönelik zorunlu hükümler bu temel ilişkinin üzerine eklenir; sözleşme özgürlüğü sınırsız değildir.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "TBK-301",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 301 vd.",
+      "baslik": "Kiraya verenin bakım ve onarım yükümlülüğü",
+      "anahtar_kelimeler": ["onarım", "bakım", "ayıp", "kiraya veren", "kullanıma elverişli", "tesisat", "nem"],
+      "icerik": "Kiraya verenin, kiralananı sözleşmeye uygun kullanıma elverişli halde teslim etme ve kira süresince bu durumda tutma yükümlülüğünü düzenleyen hükümler.",
+      "savunma_notu": "Nem, tesisat arızası veya ısıtma sorunu gibi ayıplarda kiraya verenin onarım yükümlülüğünü hatırlatın. Kiracının ayıbı yazılı ve zamanında bildirdiğini kayda geçirin.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "TBK-305",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 305",
+      "baslik": "Konut kiralarında teminat (depozito) sınırı",
+      "anahtar_kelimeler": ["teminat", "depozito", "güvence", "üç aylık", "kira bedeli", "iade"],
+      "icerik": "Kiracının kira borçlarının güvencesi için verdiği teminat (depozito), konut kiralarında üç aylık kira bedelini aşamaz. Teminatın iadesi ve kullanımı sözleşmenin sonunda gündeme gelir.",
+      "savunma_notu": "Depozito üç aylık sınırı aşıyorsa fazlanın iadesini talep edin. Sözleşme sonunda iadenin, hak edilen tutarlar düşüldükten sonra yapılması gerektiğini belirtin.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "TBK-344",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 344",
+      "baslik": "Konut kiralarında kira bedeli artışı ve yasal sınır",
+      "anahtar_kelimeler": ["kira artışı", "kira bedeli", "artış", "TÜFE", "enflasyon", "on iki aylık ortalama", "yenileme", "konut kirası"],
+      "icerik": "Konut kiralarında kira bedelinin artırılmasına ilişkin düzenlemedir. Kanun, kira artışının TÜFE'nin on iki aylık ortalaması esas alınarak sınırlandırılmasına ilişkin ilkeler içerir. Ayrıntılı koşullar ve istisnalar için güncel metne bakılmalıdır.",
+      "savunma_notu": "Talep edilen artışın yasal ölçütü aşıp aşmadığını kontrol edin. Ev sahibinin piyasa rayici gerekçesine karşı, kanunun öngördüğü ölçütün öncelikli olduğunu vurgulayın. Kiracının artışa yazılı itirazını ve süreleri kayda geçirmesini önerin.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "TBK-350",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 350",
+      "baslik": "Kiraya verenin konut ihtiyacı nedeniyle tahliye talebi",
+      "anahtar_kelimeler": ["tahliye", "ihtiyaç", "konut ihtiyacı", "kiraya veren", "ispat", "samimi", "yakın"],
+      "icerik": "Kiraya verenin kendisi veya yakınları için konuta ihtiyaç duyduğu iddiasıyla kiracının tahliyesini istemesine ilişkin koşulları düzenler. İhtiyacın gerçek, somut ve ciddi olması ile ispat yükü uygulamada en çok tartışılan noktalardır.",
+      "savunma_notu": "İhtiyaç iddiasının samimiyetini sorgulayın. Gerekçe soyut kalıyorsa veya tahliyeden sonra konutun başkasına kiralanması ya da satılması gibi durumlar varsa iddianın gerçekliğini tartışmaya açın. İspat yükünün kiraya verende olduğunu vurgulayın.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "TBK-352",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 352",
+      "baslik": "Tahliye taahhüdünün kiracı aleyhine ileri sürülememesi",
+      "anahtar_kelimeler": ["tahliye taahhüdü", "taahhüt", "koruyucu hüküm", "standart sözleşme", "kendiliğinden tahliye"],
+      "icerik": "Konut kiralarında kiracının sözleşmede veya sonradan verdiği tahliye taahhüdünün, kanunun öngördüğü koşullara aykırı biçimde kiracı aleyhine ileri sürülemeyeceğine ilişkin düzenleme.",
+      "savunma_notu": "Kiracının imzaladığı kendiliğinden tahliye taahhüdü kanunun koruyucu hükümlerini ortadan kaldırmaz. Taahhüdün baskı altında veya standart form sözleşmenin parçası olarak alınıp alınmadığını inceleyin.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "PRO-01",
+      "kategori": "usul",
+      "madde_no": "TBK 344 ve ilgili hükümler",
+      "baslik": "Kira artışına itiraz ve dava yolu (usul özeti)",
+      "anahtar_kelimeler": ["itiraz", "dava", "süre", "kira bedeli tespiti", "yazılı bildirim", "hak kaybı"],
+      "icerik": "Kira bedeli artışına ilişkin uyuşmazlıklarda taraflar yasal süreler içinde yazılı itiraz ve gerekiyorsa dava yoluna başvurabilir. Süreler kaçırılırsa hak kaybı doğabilir; süre ve usul bilgisi güncel mevzuatla teyit edilmelidir.",
+      "savunma_notu": "Kiracının artış bildirimine yazılı itirazını süre içinde yaptığını ve tüm yazışmaları sakladığını ispat açısından vurgulayın.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu; Hukuk Muhakemeleri Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "ARAB-01",
+      "kategori": "usul",
+      "madde_no": "6325 sayılı Kanun",
+      "baslik": "Kira uyuşmazlıklarında zorunlu arabuluculuk",
+      "anahtar_kelimeler": ["arabuluculuk", "dava şartı", "uyuşmazlık", "kira", "6325"],
+      "icerik": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, kira ilişkisinden doğan bazı uyuşmazlıklarda dava açmadan önce arabulucuya başvurulmasını zorunlu kılar. Kapsam, istisnalar ve sonuçları için güncel metne bakılmalıdır.",
+      "savunma_notu": "Arabuluculuk sürecinin kiracı için düşük maliyetli bir çözüm yolu olabileceğini belirtin. Ancak başvuru süresinin ve usulünün dikkatle takip edilmesi gerektiğini vurgulayın.",
+      "kaynak": "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "ANAY-2",
+      "kategori": "anayasa",
+      "madde_no": "Anayasa m. 2",
+      "baslik": "Sosyal hukuk devleti ilkesi",
+      "anahtar_kelimeler": ["sosyal devlet", "hukuk devleti", "sosyal adalet", "güç dengesizliği", "sözleşme özgürlüğü"],
+      "icerik": "Türkiye Cumhuriyeti, insan haklarına dayanan sosyal hukuk devletidir. Bu ilke, güçlü ile zayıf arasındaki dengesizliklerin giderilmesi için devletin düzenleyici rolünü de kapsar.",
+      "savunma_notu": "Sözleşme özgürlüğü argümanına karşı sosyal devlet ilkesini dayanak gösterin. Konut gibi temel ihtiyaçlarda piyasanın tek başına adil sonuç üretmeyebileceğini savunun.",
+      "kaynak": "1982 Anayasası",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "ANAY-57",
+      "kategori": "anayasa",
+      "madde_no": "Anayasa m. 57",
+      "baslik": "Konut hakkı ve devletin görevi",
+      "anahtar_kelimeler": ["konut", "barınma", "konut hakkı", "konut ihtiyacı", "devlet görevi"],
+      "icerik": "Anayasa, devletin konut ihtiyacının planlı gelişmesini sağlamak ve bu amaçla gerekli tedbirleri almakla yükümlü olduğunu düzenler.",
+      "savunma_notu": "Barınma hakkını soyut bir ideal değil, devletin görevi olarak sunun. Kiracı korumasının bu görevin bir uzantısı olduğunu vurgulayın.",
+      "kaynak": "1982 Anayasası",
+      "dogrulama_durumu": "TASLAK"
+    },
+    {
+      "id": "YRG-01",
+      "kategori": "emsal_karar",
+      "madde_no": "TBK 344",
+      "baslik": "[YER TUTUCU] Konut kirasında yasal artış sınırının aşılması",
+      "anahtar_kelimeler": ["yargıtay", "emsal", "kira artışı", "tavan", "TÜFE"],
+      "icerik": "[DOĞRULANMADI] Bu alana gerçek Yargıtay kararının resmi metninden özetlenmiş ilke yazılmalıdır. Esas ve karar numarası ile tarih eklenmeden kullanılmamalıdır.",
+      "savunma_notu": "Bu kayıt doldurulmadan kanıt olarak kullanılmamalıdır.",
+      "kaynak": "E.____ / K.____ (doldurulacak)",
+      "dogrulama_durumu": "DOĞRULANMADI"
+    },
+    {
+      "id": "YRG-02",
+      "kategori": "emsal_karar",
+      "madde_no": "TBK 350",
+      "baslik": "[YER TUTUCU] Konut ihtiyacı iddiasının samimiyeti ve ispat yükü",
+      "anahtar_kelimeler": ["yargıtay", "emsal", "ihtiyaç", "tahliye", "samimiyet", "ispat"],
+      "icerik": "[DOĞRULANMADI] Bu alana gerçek Yargıtay kararının resmi metninden özetlenmiş ilke yazılmalıdır. Esas ve karar numarası ile tarih eklenmeden kullanılmamalıdır.",
+      "savunma_notu": "Bu kayıt doldurulmadan kanıt olarak kullanılmamalıdır.",
+      "kaynak": "E.____ / K.____ (doldurulacak)",
+      "dogrulama_durumu": "DOĞRULANMADI"
+    },
+    {
+      "id": "ARG-A01",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Barınma hakkı ve taraflar arasındaki güç farkı",
+      "anahtar_kelimeler": ["barınma", "güç", "asimetri", "pazarlık", "sözleşme özgürlüğü", "kiracı"],
+      "icerik": "Konut temel bir insani ihtiyaçtır. Kiracı çoğu zaman sözleşme koşullarını müzakere edecek güçte değildir; bu yapısal eşitsizlik kiracı koruma hükümlerinin varlık nedenidir.",
+      "savunma_notu": "Ev sahibinin serbest pazarlık iddiasına karşı, sözleşmenin fiilen tek taraflı hazırlandığını ve kiracının alternatifinin sınırlı olduğunu vurgulayın.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-A02",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Kira artışlarında öngörülebilirlik",
+      "anahtar_kelimeler": ["öngörülebilirlik", "bütçe", "istikrar", "artış", "kiracı", "güvence"],
+      "icerik": "Kiracının bütçe planlaması için kira artışlarının öngörülebilir ve sınırlı olması gerekir. Sınırsız veya ani artışlar, kiracıyı konutunu kaybetme riskiyle karşı karşıya bırakır.",
+      "savunma_notu": "Yasal ölçütün dışına çıkan artış taleplerini kiracının istikrar beklentisi açısından değerlendirin.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-A03",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Enflasyonun ücretlere orantısız yansıması",
+      "anahtar_kelimeler": ["ücret", "gelir", "enflasyon", "kira yükü", "orantısız", "reel", "makas"],
+      "icerik": "Kira artışları ile ücret artışları arasında makas açıldığında kiracının gelirinin büyük bölümü konuta ayrılır. Bu durum kiracı için reel refah kaybı anlamına gelir.",
+      "savunma_notu": "Ev sahibinin enflasyon gerekçesine karşılık, kiracının gelir artışının aynı hızda gerçekleşmediğini güncel ücret verileriyle destekleyin. Veri girilmeden rakam kullanmayın.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-A04",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Ani tahliyenin sosyal maliyeti",
+      "anahtar_kelimeler": ["tahliye", "okul", "iş", "sağlık", "köklü", "yerleşim", "sosyal maliyet", "çocuk"],
+      "icerik": "Okul, iş, sağlık ve yakın çevre bağları olan kiracının ani tahliyesi yalnızca konut kaybı değil; eğitim, istihdam ve sosyal bağların kopması anlamına da gelir.",
+      "savunma_notu": "Tahliye ihtiyacı iddiası ile kiracının köklü yerleşimi arasındaki dengeyi somut örneklerle tartışın ve makul bir geçiş süresi talep edin.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "TBK-345",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 345",
+      "baslik": "Beş yılı aşan sözleşmelerde kira tespiti ve hakkaniyet indirimi",
+      "anahtar_kelimeler": ["kira tespiti", "beş yıl", "hakkaniyet", "emsal", "eski kiracı indirimi", "rayiç bedel"],
+      "icerik": "Beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde hakim; TÜFE oranı, kiralananın durumu ve emsal kira bedellerini göz önünde tutarak hakkaniyete uygun bir kira bedeli belirler. Yargıtay yerleşik içtihatlarına göre emsal kira bedelinden eski kiracı lehine %10 ila %20 arasında hakkaniyet indirimi yapılması zorunludur.",
+      "savunma_notu": "Ev sahibinin serbest piyasa rayici dayatmasına karşı, 5 yıl geçmeden tespit davası açılamayacağını, açılsa bile mahkemenin doğrudan piyasa fiyatını değil eski kiracı lehine hakkaniyet indirimi uygulayarak karar vermek zorunda olduğunu sertçe vurgulayın.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu ve Yargıtay Hukuk Genel Kurulu Kararları",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TBK-347",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 347",
+      "baslik": "Konut kiralarında 10 yıllık uzama güvencesi",
+      "anahtar_kelimeler": ["on yıl", "uzama", "tahliye yasağı", "sözleşme süresi", "fesih bildirimi", "kiracı güvencesi"],
+      "icerik": "Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az on beş gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Kiraya veren ancak on yıllık uzama süresi sonunda, hiçbir gerekçe göstermek zorunda olmaksızın en az üç ay önceden bildirimde bulunarak sözleşmeyi feshedebilir.",
+      "savunma_notu": "Ev sahibinin '1 yılımız bitti, evi boşalt' tehditlerini bu maddeyle ezin. Kanun kiracıya 10 yıllık yasal uzama kalkanı vermiştir; ev sahibi keyfi tahliye yapamaz.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TBK-348",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 348",
+      "baslik": "Kiracı aleyhine düzenleme ve ceza koşulu yasağı",
+      "anahtar_kelimeler": ["ceza koşulu", "muacceliyet", "kiracı aleyhine", "geçersizlik", "emredici hüküm"],
+      "icerik": "Kira sözleşmesinde kiracı aleyhine kira bedelini ödeme ve yan giderleri karşılama dışında başka bir edim yükümlülüğü getirilemez. Özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmalar kesin olarak hükümsüzdür (batıldır).",
+      "savunma_notu": "Ev sahiplerinin sözleşmelere koyduğu haksız cezai şartları, gecikme cezalarını veya baskıcı maddeleri bu emredici kanun hükmüyle geçersiz kılın.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TBK-355",
+      "kategori": "mevzuat",
+      "madde_no": "TBK 355",
+      "baslik": "Yeniden kiralama yasağı ve ev sahibine tazminat cezası",
+      "anahtar_kelimeler": ["yeniden kiralama yasağı", "üç yıl", "tazminat cezası", "haksız tahliye", "ihtiyaç samimiyetsizliği"],
+      "icerik": "Kiraya veren, gereksinim (ihtiyaç) amacıyla kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın taşınmazı üç yıl geçmedikçe eski kiracısından başkasına kiralayamaz. Bu hükme aykırı davranan kiraya veren, eski kiracısına son kira yılında ödenmiş olan bir yıllık kira bedelinden az olmamak üzere tazminat ödemekle yükümlüdür.",
+      "savunma_notu": "'Oğlum gelecek, kendim oturacağım' yalanıyla kiracıyı çıkarıp evi yüksek fiyattan başkasına kiralayan ev sahiplerinin bu madde uyarınca en az 1 yıllık brüt kira tazminatına çarptırılacağını yüzlerine vurun.",
+      "kaynak": "6098 sayılı Türk Borçlar Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TMK-2",
+      "kategori": "mevzuat",
+      "madde_no": "TMK 2",
+      "baslik": "Dürüstlük kuralı ve hakkın kötüye kullanılması yasağı",
+      "anahtar_kelimeler": ["dürüstlük kuralı", "hakkın kötüye kullanılması", "objektif iyiniyet", "hukuki koruma"],
+      "icerik": "Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır. Bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.",
+      "savunma_notu": "Mülkiyet hakkının ev sahibine kiracıyı ezme, fahiş artışlarla sindirme veya sahte tahliye gerekçeleri uydurma hakkı vermediğini, bu eylemlerin hakkın kötüye kullanılması olduğunu sertçe savunun.",
+      "kaynak": "4721 sayılı Türk Medeni Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "TCK-237",
+      "kategori": "mevzuat",
+      "madde_no": "TCK 237",
+      "baslik": "Fiyatları etkileme suçu ve yasadışı baskı",
+      "anahtar_kelimeler": ["fiyatları etkileme", "fahiş artış", "ceza hukuku", "suç", "baskı", "tehdit", "huzur bozma"],
+      "icerik": "İşçi ücretlerinin veya besin veya malların değerlerinin artması veya eksilmesi sonucunu doğurabilecek şekilde asılsız haber veya havadis yayan veya sair hileli yollara başvuran kimseye hapis cezası verilir. Ayrıca kiracının elektriğini, suyunu kestirmek veya huzurunu bozmak TCK kapsamında suç teşkil eder.",
+      "savunma_notu": "Piyasada yapay kira tırmanışı yaratan spekülatörlerin ve kiracıyı taciz eden ev sahiplerinin eylemlerinin yalnızca borçlar hukuku değil, ceza hukuku yaptırımına da tabi olduğunu ihtar edin.",
+      "kaynak": "5237 sayılı Türk Ceza Kanunu",
+      "dogrulama_durumu": "DOĞRULANDI"
+    },
+    {
+      "id": "ARG-A05",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Konut kâr kapısı değil, yaşamsal sığınaktır",
+      "anahtar_kelimeler": ["barınma", "insan hakkı", "yaşam hakkı", "sosyal adalet", "rant", "spekülasyon"],
+      "icerik": "Konut; borsa hissesi, altın veya kripto para gibi bir spekülasyon aracı olarak görülemez. İnsanların başını soktuğu yuva, anayasal yaşam ve aile hakkının teminatıdır. Sermaye birikiminin kâr marjı, yurttaşın barınma hakkının önüne geçirilemez.",
+      "savunma_notu": "Ev sahibinin 'kârım azaldı' feryatlarına karşı, 'Sizin azalan kârınız bir ailenin evsiz kalmasından daha mı kıymetli?' sorusunu yönelterek ahlaki ve hukuki üstünlüğü kurun.",
+      "kaynak": "Evrensel İnsan Hakları ve Sosyal Hukuk İlkeleri",
+      "dogrulama_durumu": "GEREKÇE"
+    },
+    {
+      "id": "ARG-A06",
+      "kategori": "argüman",
+      "madde_no": null,
+      "baslik": "Boş tahliye taahhütnamelerinin geçersizliği ve ahlaka aykırılığı",
+      "anahtar_kelimeler": ["boş taahhüt", "baskı", "gabiyin", "müzazara", "hukuki kılıf", "şantaj"],
+      "icerik": "Uygulamada ev sahipleri kira sözleşmesini imzalatırken kiracıya tarihleri boş bırakılmış tahliye taahhüdünü zorla dayatmaktadır. Bu durum müzayaka (zor durum) halinden yararlanmadır ve dürüstlük kuralına taban tabana zıttır.",
+      "savunma_notu": "Tahliye taahhüdü kartını açan Ajan B'ye karşı, bu taahhütlerin kiracıya başını sokacak ev bulma çaresizliği içindeyken dayatılan modern bir şantaj aracı olduğunu yüzüne vurun.",
+      "kaynak": "Argüman çerçevesi",
+      "dogrulama_durumu": "GEREKÇE"
+    }
+  ]
+}
